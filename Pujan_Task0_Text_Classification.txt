@@ -1,0 +1,16 @@
+('Multinomial Naive Bayes', 'CountVectorizer'): 0.6699999999999999
+('Multinomial Naive Bayes', 'Word2Vec'): 0.52
+('Multinomial Naive Bayes', 'Doc2Vec'): 0.59
+('Logistic Regression', 'CountVectorizer'): 0.6699999999999999
+('Logistic Regression', 'Word2Vec'): 0.52
+('Logistic Regression', 'Doc2Vec'): 0.59
+('Support Vector Machines', 'CountVectorizer'): 0.6699999999999999
+('Support Vector Machines', 'Word2Vec'): 0.52
+('Support Vector Machines', 'Doc2Vec'): 0.59
+('Decision Trees', 'CountVectorizer'): 0.6699999999999999
+('Decision Trees', 'Word2Vec'): 0.52
+('Decision Trees', 'Doc2Vec'): 0.59
+
+Best Algorithm: Multinomial Naive Bayes
+Best Feature Extractor: CountVectorizer
+Best Accuracy: 0.6699999999999999
